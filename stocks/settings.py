@@ -13,7 +13,7 @@ https://docs.djangoproject.com/en/1.11/ref/settings/
 import os
 import environ
 
-ROOT_DIR = environ.Path(__file__) - 1
+ROOT_DIR = environ.Path(__file__) - 2
 APPS_DIR = ROOT_DIR.path('stocks')
 
 # Load operating system environment variables and then prepare to use them
