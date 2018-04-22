@@ -14,6 +14,7 @@ Requirements:
 $ git clone https://github.com/mshade/djangostocks
 $ cd djangostocks
 $ virtualenv .
+$ source bin/activate
 $ pip install -r requirements.txt
 $ ./startserver.sh
 ```
