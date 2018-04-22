@@ -22,12 +22,18 @@ $ python manage.py shell -c 'from django.core.management import utils; print(uti
 $ cp example.env .env
 $ ./startserver.sh
 ```
+The app is available at http://localhost:8000/
 
 
 ## Running Locally with docker
 Install docker for your platform, then:
 
 ```
-docker build -t djangostocks .
-docker run -d -p 8000:8000 djangostocks
+# Copy example.env to .env, and edit as necessary
+$ cp example.env .env
+$ docker build -t djangostocks .
+$ docker run -d -p 8000:8000 --env-file=.env djangostocks
 ```
+
+The app is available at http://localhost:8000/
+
