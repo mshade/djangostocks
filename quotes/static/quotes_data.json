@@ -1,0 +1,1109 @@
+[
+    {
+        "CompanyName": "GigaMedia",
+        "Symbol": "GIGM",
+        "Exchange": "NASDAQ",
+        "ExchangeName": "NASDAQ",
+        "IsoAlpha2CountryCode": "US",
+        "IsoAlpha3CountryCode": "USA",
+        "Sector": "Technology",
+        "Industry": "Computer Software & Services",
+        "Description": "A holding company which through its subsidiaries, develops and licenses online gaming software and provide application services, owns and operates an online games business, and provide broadband Internet access services.",
+        "CurrencyCode": "USD",
+        "Year1ForwardEPSEstimate": {
+            "Amount": 0,
+            "Currency": 1
+        },
+        "Year2ForwardEPSEstimate": {
+            "Amount": 0,
+            "Currency": 1
+        },
+        "InstrumentId": 206445,
+        "ShortInterest": 14261,
+        "Volume": 25350,
+        "SharesOutstanding": 11052235,
+        "AverageVolume": 24518,
+        "PriceToEarningsRatio": -4.8727,
+        "ReturnOnEquity": -4.54,
+        "LastTradeDate": "2018-04-20T16:19:51Z",
+        "ExDivDate": "1970-01-01T00:00:00Z",
+        "DivPayDate": "1970-01-01T00:00:00Z",
+        "Change": {
+            "Amount": -0.03,
+            "Currency": 1
+        },
+        "ClosePrice": {
+            "Amount": 2.68,
+            "Currency": 1
+        },
+        "CurrentPrice": {
+            "Amount": 2.65,
+            "Currency": 1
+        },
+        "OpenPrice": {
+            "Amount": 2.66,
+            "Currency": 1
+        },
+        "MarketCap": {
+            "Amount": 29288422.75,
+            "Currency": 1
+        },
+        "MarketCapChange": {
+            "Amount": -331567.05,
+            "Currency": 1
+        },
+        "EarningsPerShare": {
+            "Amount": 0,
+            "Currency": 1
+        },
+        "PercentChange": {
+            "Value": -0.0111940298507463
+        },
+        "DailyRange": {
+            "Minimum": {
+                "Amount": 2.58,
+                "Currency": 1
+            },
+            "Maximum": {
+                "Amount": 2.66,
+                "Currency": 1
+            }
+        },
+        "FiftyTwoWeekRange": {
+            "Minimum": {
+                "Amount": 2.36,
+                "Currency": 1
+            },
+            "Maximum": {
+                "Amount": 4.3683,
+                "Currency": 1
+            }
+        },
+        "AnnualDividend": {
+            "Amount": 0,
+            "Currency": 1
+        },
+        "DividendYield": {
+            "Value": 0
+        },
+        "PercentOfSharesTraded": {
+            "Value": 0.00229365372705159
+        },
+        "AssetClass": 1,
+        "ChartUrl": "",
+        "IsRealTime": true,
+        "Bid": {
+            "Amount": 2.62,
+            "Currency": 1
+        },
+        "Ask": {
+            "Amount": 2.65,
+            "Currency": 1
+        },
+        "AskYield": {
+            "Value": 0
+        },
+        "BidYield": {
+            "Value": 0
+        },
+        "MaturityDate": "0001-01-01T00:00:00Z",
+        "OpenYield": {
+            "Value": 0
+        },
+        "PreviousYield": {
+            "Value": 0
+        },
+        "OpenInterest": 0,
+        "SeoName": "gigamedia",
+        "IdcMdgId": 66769,
+        "Website": "http://www.gigamedia.com/",
+        "Beta3Y": 0.94,
+        "HomeCountryCode": null,
+        "GrossMargin": 55.76,
+        "RevenueGrowth": -12.49
+    },
+    {
+        "CompanyName": "G-III Apparel Group",
+        "Symbol": "GIII",
+        "Exchange": "NASDAQ",
+        "ExchangeName": "NASDAQ",
+        "IsoAlpha2CountryCode": "US",
+        "IsoAlpha3CountryCode": "USA",
+        "Sector": "Consumer Goods",
+        "Industry": "Consumer Non-Durables",
+        "Description": "The company sells outerwear and sportswear, including coats, jackets and pants, as well as women's suits and dresses.",
+        "CurrencyCode": "USD",
+        "Year1ForwardEPSEstimate": {
+            "Amount": 2.72,
+            "Currency": 1
+        },
+        "Year2ForwardEPSEstimate": {
+            "Amount": 3.18,
+            "Currency": 1
+        },
+        "InstrumentId": 207095,
+        "ShortInterest": 5258755,
+        "Volume": 164795,
+        "SharesOutstanding": 48758185,
+        "AverageVolume": 698861,
+        "PriceToEarningsRatio": 28.88,
+        "ReturnOnEquity": 4.1,
+        "LastTradeDate": "2018-04-20T17:17:37Z",
+        "ExDivDate": "1970-01-01T00:00:00Z",
+        "DivPayDate": "1970-01-01T00:00:00Z",
+        "Change": {
+            "Amount": -1.02,
+            "Currency": 1
+        },
+        "ClosePrice": {
+            "Amount": 36.1,
+            "Currency": 1
+        },
+        "CurrentPrice": {
+            "Amount": 35.08,
+            "Currency": 1
+        },
+        "OpenPrice": {
+            "Amount": 35.9,
+            "Currency": 1
+        },
+        "MarketCap": {
+            "Amount": 1710437129.8,
+            "Currency": 1
+        },
+        "MarketCapChange": {
+            "Amount": -49733348.7,
+            "Currency": 1
+        },
+        "EarningsPerShare": {
+            "Amount": 1.25,
+            "Currency": 1
+        },
+        "PercentChange": {
+            "Value": -0.0282548476454294
+        },
+        "DailyRange": {
+            "Minimum": {
+                "Amount": 34.93,
+                "Currency": 1
+            },
+            "Maximum": {
+                "Amount": 36.34,
+                "Currency": 1
+            }
+        },
+        "FiftyTwoWeekRange": {
+            "Minimum": {
+                "Amount": 18,
+                "Currency": 1
+            },
+            "Maximum": {
+                "Amount": 40.962,
+                "Currency": 1
+            }
+        },
+        "AnnualDividend": {
+            "Amount": 0,
+            "Currency": 1
+        },
+        "DividendYield": {
+            "Value": 0
+        },
+        "PercentOfSharesTraded": {
+            "Value": 0.00337984278947217
+        },
+        "AssetClass": 1,
+        "ChartUrl": "",
+        "IsRealTime": true,
+        "Bid": {
+            "Amount": 35.03,
+            "Currency": 1
+        },
+        "Ask": {
+            "Amount": 35.06,
+            "Currency": 1
+        },
+        "AskYield": {
+            "Value": 0
+        },
+        "BidYield": {
+            "Value": 0
+        },
+        "MaturityDate": "0001-01-01T00:00:00Z",
+        "OpenYield": {
+            "Value": 0
+        },
+        "PreviousYield": {
+            "Value": 0
+        },
+        "OpenInterest": 0,
+        "SeoName": "g-iii-apparel-group",
+        "IdcMdgId": 265713,
+        "Website": "",
+        "Beta3Y": -0.41,
+        "HomeCountryCode": null,
+        "GrossMargin": 35.49,
+        "RevenueGrowth": 1.8
+    },
+    {
+        "CompanyName": "Gildan Activewear",
+        "Symbol": "GIL",
+        "Exchange": "NYSE",
+        "ExchangeName": "NYSE",
+        "IsoAlpha2CountryCode": "US",
+        "IsoAlpha3CountryCode": "USA",
+        "Sector": "Consumer Goods",
+        "Industry": "Consumer Non-Durables",
+        "Description": "The Company is a vertically-integrated marketer and manufacturer of branded basic apparel including activewear, underwear and socks.",
+        "CurrencyCode": "USD",
+        "Year1ForwardEPSEstimate": {
+            "Amount": 1.47,
+            "Currency": 1
+        },
+        "Year2ForwardEPSEstimate": {
+            "Amount": 1.85,
+            "Currency": 1
+        },
+        "InstrumentId": 207096,
+        "ShortInterest": 10662854,
+        "Volume": 62157,
+        "SharesOutstanding": 219414970,
+        "AverageVolume": 362478,
+        "PriceToEarningsRatio": 18.1615,
+        "ReturnOnEquity": 18.34,
+        "LastTradeDate": "2018-04-20T17:09:16Z",
+        "ExDivDate": "2018-03-07T00:00:00Z",
+        "DivPayDate": "2018-04-02T00:00:00Z",
+        "Change": {
+            "Amount": -0.01,
+            "Currency": 1
+        },
+        "ClosePrice": {
+            "Amount": 29.24,
+            "Currency": 1
+        },
+        "CurrentPrice": {
+            "Amount": 29.23,
+            "Currency": 1
+        },
+        "OpenPrice": {
+            "Amount": 29.22,
+            "Currency": 1
+        },
+        "MarketCap": {
+            "Amount": 6413499573.1,
+            "Currency": 1
+        },
+        "MarketCapChange": {
+            "Amount": -2194149.7,
+            "Currency": 1
+        },
+        "EarningsPerShare": {
+            "Amount": 1.61,
+            "Currency": 1
+        },
+        "PercentChange": {
+            "Value": -0.00034199726402188782
+        },
+        "DailyRange": {
+            "Minimum": {
+                "Amount": 29.15,
+                "Currency": 1
+            },
+            "Maximum": {
+                "Amount": 29.39,
+                "Currency": 1
+            }
+        },
+        "FiftyTwoWeekRange": {
+            "Minimum": {
+                "Amount": 27.08,
+                "Currency": 1
+            },
+            "Maximum": {
+                "Amount": 34.1899,
+                "Currency": 1
+            }
+        },
+        "AnnualDividend": {
+            "Amount": 0.37,
+            "Currency": 1
+        },
+        "DividendYield": {
+            "Value": 0.015321499999999998
+        },
+        "PercentOfSharesTraded": {
+            "Value": 0.00028328513774607088
+        },
+        "AssetClass": 1,
+        "ChartUrl": "",
+        "IsRealTime": true,
+        "Bid": {
+            "Amount": 29.19,
+            "Currency": 1
+        },
+        "Ask": {
+            "Amount": 29.21,
+            "Currency": 1
+        },
+        "AskYield": {
+            "Value": 0
+        },
+        "BidYield": {
+            "Value": 0
+        },
+        "MaturityDate": "0001-01-01T00:00:00Z",
+        "OpenYield": {
+            "Value": 0
+        },
+        "PreviousYield": {
+            "Value": 0
+        },
+        "OpenInterest": 0,
+        "SeoName": "gildan-activewear",
+        "IdcMdgId": 32949,
+        "Website": "http://www.gildan.com/",
+        "Beta3Y": 0.69,
+        "HomeCountryCode": null,
+        "GrossMargin": 28.39,
+        "RevenueGrowth": -12.64
+    },
+    {
+        "CompanyName": "GILDAN ACTIVEWEAR INC.",
+        "Symbol": "GIL",
+        "Exchange": "TSX",
+        "ExchangeName": "TSX",
+        "IsoAlpha2CountryCode": "CA",
+        "IsoAlpha3CountryCode": "CAN",
+        "Sector": "",
+        "Industry": "",
+        "Description": null,
+        "CurrencyCode": "CAD",
+        "Year1ForwardEPSEstimate": {
+            "Amount": 0,
+            "Currency": 5
+        },
+        "Year2ForwardEPSEstimate": {
+            "Amount": 0,
+            "Currency": 5
+        },
+        "InstrumentId": 247510,
+        "ShortInterest": 0,
+        "Volume": 167394,
+        "SharesOutstanding": 219035937,
+        "AverageVolume": 571200,
+        "PriceToEarningsRatio": 18.3366,
+        "ReturnOnEquity": 0,
+        "LastTradeDate": "2018-04-20T17:07:15Z",
+        "ExDivDate": "2018-03-07T00:00:00Z",
+        "DivPayDate": "2018-04-02T05:00:00Z",
+        "Change": {
+            "Amount": 0.18,
+            "Currency": 5
+        },
+        "ClosePrice": {
+            "Amount": 37.04,
+            "Currency": 5
+        },
+        "CurrentPrice": {
+            "Amount": 37.22,
+            "Currency": 5
+        },
+        "OpenPrice": {
+            "Amount": 37.14,
+            "Currency": 5
+        },
+        "MarketCap": {
+            "Amount": 8152517575.14,
+            "Currency": 5
+        },
+        "MarketCapChange": {
+            "Amount": 39426468.66,
+            "Currency": 5
+        },
+        "EarningsPerShare": {
+            "Amount": 2.024,
+            "Currency": 5
+        },
+        "PercentChange": {
+            "Value": 0.0048596112311015119
+        },
+        "DailyRange": {
+            "Minimum": {
+                "Amount": 37.11,
+                "Currency": 5
+            },
+            "Maximum": {
+                "Amount": 37.39,
+                "Currency": 5
+            }
+        },
+        "FiftyTwoWeekRange": {
+            "Minimum": {
+                "Amount": 35.72,
+                "Currency": 5
+            },
+            "Maximum": {
+                "Amount": 42.18,
+                "Currency": 5
+            }
+        },
+        "AnnualDividend": {
+            "Amount": 0,
+            "Currency": 5
+        },
+        "DividendYield": {
+            "Value": 0.012095
+        },
+        "PercentOfSharesTraded": {
+            "Value": 0.00076423075725697009
+        },
+        "AssetClass": 1,
+        "ChartUrl": "",
+        "IsRealTime": false,
+        "Bid": {
+            "Amount": 37.21,
+            "Currency": 5
+        },
+        "Ask": {
+            "Amount": 37.23,
+            "Currency": 5
+        },
+        "AskYield": {
+            "Value": 0
+        },
+        "BidYield": {
+            "Value": 0
+        },
+        "MaturityDate": "0001-01-01T00:00:00Z",
+        "OpenYield": {
+            "Value": 0
+        },
+        "PreviousYield": {
+            "Value": 0
+        },
+        "OpenInterest": 0,
+        "SeoName": "gildan-activewear-inc",
+        "IdcMdgId": 32944,
+        "Website": "",
+        "Beta3Y": 0,
+        "HomeCountryCode": null,
+        "GrossMargin": 0,
+        "RevenueGrowth": 0
+    },
+    {
+        "CompanyName": "Gilead Sciences",
+        "Symbol": "GILD",
+        "Exchange": "NASDAQ",
+        "ExchangeName": "NASDAQ",
+        "IsoAlpha2CountryCode": "US",
+        "IsoAlpha3CountryCode": "USA",
+        "Sector": "Healthcare",
+        "Industry": "Drug Makers",
+        "Description": "Gilead Sciences created and sells the world’s top-selling HIV medications, Truvada and Atripla, and commands about 75% of the U.S. treatment market and more than 50% worldwide.",
+        "CurrencyCode": "USD",
+        "Year1ForwardEPSEstimate": {
+            "Amount": 12,
+            "Currency": 1
+        },
+        "Year2ForwardEPSEstimate": {
+            "Amount": 11.76,
+            "Currency": 1
+        },
+        "InstrumentId": 203737,
+        "ShortInterest": 19992141,
+        "Volume": 2452117,
+        "SharesOutstanding": 1306268996,
+        "AverageVolume": 6456571,
+        "PriceToEarningsRatio": 21.0283,
+        "ReturnOnEquity": 55.62,
+        "LastTradeDate": "2018-04-20T17:22:41Z",
+        "ExDivDate": "2018-03-15T00:00:00Z",
+        "DivPayDate": "2018-03-29T00:00:00Z",
+        "Change": {
+            "Amount": -1.09,
+            "Currency": 1
+        },
+        "ClosePrice": {
+            "Amount": 74.44,
+            "Currency": 1
+        },
+        "CurrentPrice": {
+            "Amount": 73.35,
+            "Currency": 1
+        },
+        "OpenPrice": {
+            "Amount": 74.4,
+            "Currency": 1
+        },
+        "MarketCap": {
+            "Amount": 95814830856.6000,
+            "Currency": 1
+        },
+        "MarketCapChange": {
+            "Amount": -1423833205.64,
+            "Currency": 1
+        },
+        "EarningsPerShare": {
+            "Amount": 3.54,
+            "Currency": 1
+        },
+        "PercentChange": {
+            "Value": -0.014642665233745298
+        },
+        "DailyRange": {
+            "Minimum": {
+                "Amount": 73.18,
+                "Currency": 1
+            },
+            "Maximum": {
+                "Amount": 74.42,
+                "Currency": 1
+            }
+        },
+        "FiftyTwoWeekRange": {
+            "Minimum": {
+                "Amount": 63.759,
+                "Currency": 1
+            },
+            "Maximum": {
+                "Amount": 89.54,
+                "Currency": 1
+            }
+        },
+        "AnnualDividend": {
+            "Amount": 2.08,
+            "Currency": 1
+        },
+        "DividendYield": {
+            "Value": 0.030628700000000002
+        },
+        "PercentOfSharesTraded": {
+            "Value": 0.0018771914571261857
+        },
+        "AssetClass": 1,
+        "ChartUrl": "",
+        "IsRealTime": true,
+        "Bid": {
+            "Amount": 73.37,
+            "Currency": 1
+        },
+        "Ask": {
+            "Amount": 73.41,
+            "Currency": 1
+        },
+        "AskYield": {
+            "Value": 0
+        },
+        "BidYield": {
+            "Value": 0
+        },
+        "MaturityDate": "0001-01-01T00:00:00Z",
+        "OpenYield": {
+            "Value": 0
+        },
+        "PreviousYield": {
+            "Value": 0
+        },
+        "OpenInterest": 0,
+        "SeoName": "gilead-sciences",
+        "IdcMdgId": 266330,
+        "Website": "http://www.gilead.com/",
+        "Beta3Y": 0.9,
+        "HomeCountryCode": null,
+        "GrossMargin": 84.24,
+        "RevenueGrowth": -5.37
+    },
+    {
+        "CompanyName": "General Mills",
+        "Symbol": "GIS",
+        "Exchange": "NYSE",
+        "ExchangeName": "NYSE",
+        "IsoAlpha2CountryCode": "US",
+        "IsoAlpha3CountryCode": "USA",
+        "Sector": "Consumer Goods",
+        "Industry": "Food & Beverage",
+        "Description": "General Mills is a manufacturer and marketer of branded consumer foods. The company manages nearly 100 supermarket brands.",
+        "CurrencyCode": "USD",
+        "Year1ForwardEPSEstimate": {
+            "Amount": 2.85,
+            "Currency": 1
+        },
+        "Year2ForwardEPSEstimate": {
+            "Amount": 3.07,
+            "Currency": 1
+        },
+        "InstrumentId": 203742,
+        "ShortInterest": 31710147,
+        "Volume": 2485753,
+        "SharesOutstanding": 568338468,
+        "AverageVolume": 7283674,
+        "PriceToEarningsRatio": 11.7727,
+        "ReturnOnEquity": 38.09,
+        "LastTradeDate": "2018-04-20T17:22:29Z",
+        "ExDivDate": "2018-04-09T00:00:00Z",
+        "DivPayDate": "2018-05-01T00:00:00Z",
+        "Change": {
+            "Amount": -0.74,
+            "Currency": 1
+        },
+        "ClosePrice": {
+            "Amount": 44.03,
+            "Currency": 1
+        },
+        "CurrentPrice": {
+            "Amount": 43.29,
+            "Currency": 1
+        },
+        "OpenPrice": {
+            "Amount": 44.2,
+            "Currency": 1
+        },
+        "MarketCap": {
+            "Amount": 24603372279.7200,
+            "Currency": 1
+        },
+        "MarketCapChange": {
+            "Amount": -420570466.32,
+            "Currency": 1
+        },
+        "EarningsPerShare": {
+            "Amount": 3.74,
+            "Currency": 1
+        },
+        "PercentChange": {
+            "Value": -0.01680672268907563
+        },
+        "DailyRange": {
+            "Minimum": {
+                "Amount": 43.31,
+                "Currency": 1
+            },
+            "Maximum": {
+                "Amount": 44.5799,
+                "Currency": 1
+            }
+        },
+        "FiftyTwoWeekRange": {
+            "Minimum": {
+                "Amount": 43.31,
+                "Currency": 1
+            },
+            "Maximum": {
+                "Amount": 60.69,
+                "Currency": 1
+            }
+        },
+        "AnnualDividend": {
+            "Amount": 1.96,
+            "Currency": 1
+        },
+        "DividendYield": {
+            "Value": 0.0445151
+        },
+        "PercentOfSharesTraded": {
+            "Value": 0.0043737194294580116
+        },
+        "AssetClass": 1,
+        "ChartUrl": "",
+        "IsRealTime": true,
+        "Bid": {
+            "Amount": 43.32,
+            "Currency": 1
+        },
+        "Ask": {
+            "Amount": 43.33,
+            "Currency": 1
+        },
+        "AskYield": {
+            "Value": 0
+        },
+        "BidYield": {
+            "Value": 0
+        },
+        "MaturityDate": "0001-01-01T00:00:00Z",
+        "OpenYield": {
+            "Value": 0
+        },
+        "PreviousYield": {
+            "Value": 0
+        },
+        "OpenInterest": 0,
+        "SeoName": "general-mills",
+        "IdcMdgId": 266073,
+        "Website": "http://www.generalmills.com/",
+        "Beta3Y": 0.46,
+        "HomeCountryCode": null,
+        "GrossMargin": 34.94,
+        "RevenueGrowth": -5.7
+    },
+    {
+        "CompanyName": "GKN",
+        "Symbol": "GKN",
+        "Exchange": "LSE",
+        "ExchangeName": "LSE",
+        "IsoAlpha2CountryCode": "GB",
+        "IsoAlpha3CountryCode": "GBR",
+        "Sector": "",
+        "Industry": "",
+        "Description": "Engineer GKN is responsible for making most of the cars around the world move. It designs and manufactures drive shafts and axle joints and dominates its field. Its other businesses include metallurgical powders but it is the car side of the business that now dominates the groups operations. GKN employs over 48,000 people within its companies and joint ventures in more than 30 countries.",
+        "CurrencyCode": "GBX",
+        "Year1ForwardEPSEstimate": {
+            "Amount": 0,
+            "Currency": 3
+        },
+        "Year2ForwardEPSEstimate": {
+            "Amount": 0,
+            "Currency": 3
+        },
+        "InstrumentId": 218553,
+        "ShortInterest": 0,
+        "Volume": 9319910,
+        "SharesOutstanding": 1724603630,
+        "AverageVolume": 17187542,
+        "PriceToEarningsRatio": 0,
+        "ReturnOnEquity": 0,
+        "LastTradeDate": "2018-04-20T15:35:28Z",
+        "ExDivDate": "1970-01-01T00:00:00Z",
+        "DivPayDate": "1970-01-01T00:00:00Z",
+        "Change": {
+            "Amount": -9.7,
+            "Currency": 3
+        },
+        "ClosePrice": {
+            "Amount": 477.6,
+            "Currency": 3
+        },
+        "CurrentPrice": {
+            "Amount": 467.9,
+            "Currency": 3
+        },
+        "OpenPrice": {
+            "Amount": 476.9,
+            "Currency": 3
+        },
+        "MarketCap": {
+            "Amount": 806942038477.0000,
+            "Currency": 3
+        },
+        "MarketCapChange": {
+            "Amount": -16728655211.0000,
+            "Currency": 3
+        },
+        "EarningsPerShare": {
+            "Amount": 0,
+            "Currency": 3
+        },
+        "PercentChange": {
+            "Value": -0.020309882747068676
+        },
+        "DailyRange": {
+            "Minimum": {
+                "Amount": 465.3,
+                "Currency": 3
+            },
+            "Maximum": {
+                "Amount": 480.4,
+                "Currency": 3
+            }
+        },
+        "FiftyTwoWeekRange": {
+            "Minimum": {
+                "Amount": 2.9467,
+                "Currency": 3
+            },
+            "Maximum": {
+                "Amount": 482.3,
+                "Currency": 3
+            }
+        },
+        "AnnualDividend": {
+            "Amount": 0,
+            "Currency": 3
+        },
+        "DividendYield": {
+            "Value": 0
+        },
+        "PercentOfSharesTraded": {
+            "Value": 0.0054040881266149256
+        },
+        "AssetClass": 1,
+        "ChartUrl": "",
+        "IsRealTime": false,
+        "Bid": {
+            "Amount": 467.9,
+            "Currency": 3
+        },
+        "Ask": {
+            "Amount": 468.3,
+            "Currency": 3
+        },
+        "AskYield": {
+            "Value": 0
+        },
+        "BidYield": {
+            "Value": 0
+        },
+        "MaturityDate": "0001-01-01T00:00:00Z",
+        "OpenYield": {
+            "Value": 0
+        },
+        "PreviousYield": {
+            "Value": 0
+        },
+        "OpenInterest": 0,
+        "SeoName": "gkn",
+        "IdcMdgId": 9454579,
+        "Website": "",
+        "Beta3Y": 0,
+        "HomeCountryCode": null,
+        "GrossMargin": 0,
+        "RevenueGrowth": 0
+    },
+    {
+        "CompanyName": "GCI LIBERTY, INC.",
+        "Symbol": "GLIBA",
+        "Exchange": "NASDAQ",
+        "ExchangeName": "NASDAQ",
+        "IsoAlpha2CountryCode": "US",
+        "IsoAlpha3CountryCode": "USA",
+        "Sector": "",
+        "Industry": "",
+        "Description": "GCI LIBERTY, INC.",
+        "CurrencyCode": "USD",
+        "Year1ForwardEPSEstimate": {
+            "Amount": 0,
+            "Currency": 1
+        },
+        "Year2ForwardEPSEstimate": {
+            "Amount": 0,
+            "Currency": 1
+        },
+        "InstrumentId": 339936,
+        "ShortInterest": 0,
+        "Volume": 76868,
+        "SharesOutstanding": 104016000,
+        "AverageVolume": 540834,
+        "PriceToEarningsRatio": 0,
+        "ReturnOnEquity": 0,
+        "LastTradeDate": "2018-04-20T17:05:56Z",
+        "ExDivDate": "1970-01-01T00:00:00Z",
+        "DivPayDate": "1970-01-01T00:00:00Z",
+        "Change": {
+            "Amount": -0.04,
+            "Currency": 1
+        },
+        "ClosePrice": {
+            "Amount": 51.73,
+            "Currency": 1
+        },
+        "CurrentPrice": {
+            "Amount": 51.69,
+            "Currency": 1
+        },
+        "OpenPrice": {
+            "Amount": 51.59,
+            "Currency": 1
+        },
+        "MarketCap": {
+            "Amount": 5376587040,
+            "Currency": 1
+        },
+        "MarketCapChange": {
+            "Amount": -4160640,
+            "Currency": 1
+        },
+        "EarningsPerShare": {
+            "Amount": 0,
+            "Currency": 1
+        },
+        "PercentChange": {
+            "Value": -0.00077324569882080026
+        },
+        "DailyRange": {
+            "Minimum": {
+                "Amount": 51.3,
+                "Currency": 1
+            },
+            "Maximum": {
+                "Amount": 52.16,
+                "Currency": 1
+            }
+        },
+        "FiftyTwoWeekRange": {
+            "Minimum": {
+                "Amount": 50.38,
+                "Currency": 1
+            },
+            "Maximum": {
+                "Amount": 55.47,
+                "Currency": 1
+            }
+        },
+        "AnnualDividend": {
+            "Amount": 0,
+            "Currency": 1
+        },
+        "DividendYield": {
+            "Value": 0
+        },
+        "PercentOfSharesTraded": {
+            "Value": 0.00073900169204737728
+        },
+        "AssetClass": 1,
+        "ChartUrl": "",
+        "IsRealTime": false,
+        "Bid": {
+            "Amount": 51.66,
+            "Currency": 1
+        },
+        "Ask": {
+            "Amount": 51.71,
+            "Currency": 1
+        },
+        "AskYield": {
+            "Value": 0
+        },
+        "BidYield": {
+            "Value": 0
+        },
+        "MaturityDate": "0001-01-01T00:00:00Z",
+        "OpenYield": {
+            "Value": 0
+        },
+        "PreviousYield": {
+            "Value": 0
+        },
+        "OpenInterest": 0,
+        "SeoName": "gci-liberty-inc",
+        "IdcMdgId": null,
+        "Website": "",
+        "Beta3Y": 0,
+        "HomeCountryCode": null,
+        "GrossMargin": 0,
+        "RevenueGrowth": 0
+    },
+    {
+        "CompanyName": "Netflix",
+        "Symbol": "NFLX",
+        "Exchange": "NASDAQ",
+        "ExchangeName": "NASDAQ",
+        "IsoAlpha2CountryCode": "US",
+        "IsoAlpha3CountryCode": "USA",
+        "Sector": "Technology",
+        "Industry": "Internet Software & Services",
+        "Description": "Netflix delivers its comprehensive library of movies and TV shows online and through the mail in their ubiquitous red envelopes.",
+        "CurrencyCode": "USD",
+        "Year1ForwardEPSEstimate": {
+            "Amount": 0.26,
+            "Currency": 1
+        },
+        "Year2ForwardEPSEstimate": {
+            "Amount": 0.26,
+            "Currency": 1
+        },
+        "InstrumentId": 204654,
+        "ShortInterest": 27322936,
+        "Volume": 5741623,
+        "SharesOutstanding": 432731130,
+        "AverageVolume": 12540764,
+        "PriceToEarningsRatio": 223.2886,
+        "ReturnOnEquity": 15.03,
+        "LastTradeDate": "2018-04-20T17:22:41Z",
+        "ExDivDate": "1970-01-01T00:00:00Z",
+        "DivPayDate": "1970-01-01T00:00:00Z",
+        "Change": {
+            "Amount": -3.93,
+            "Currency": 1
+        },
+        "ClosePrice": {
+            "Amount": 332.7,
+            "Currency": 1
+        },
+        "CurrentPrice": {
+            "Amount": 328.77,
+            "Currency": 1
+        },
+        "OpenPrice": {
+            "Amount": 332.22,
+            "Currency": 1
+        },
+        "MarketCap": {
+            "Amount": 142269013610.1000,
+            "Currency": 1
+        },
+        "MarketCapChange": {
+            "Amount": -1700633340.9,
+            "Currency": 1
+        },
+        "EarningsPerShare": {
+            "Amount": 1.49,
+            "Currency": 1
+        },
+        "PercentChange": {
+            "Value": -0.01181244364292155
+        },
+        "DailyRange": {
+            "Minimum": {
+                "Amount": 328.8803,
+                "Currency": 1
+            },
+            "Maximum": {
+                "Amount": 336.51,
+                "Currency": 1
+            }
+        },
+        "FiftyTwoWeekRange": {
+            "Minimum": {
+                "Amount": 139.27,
+                "Currency": 1
+            },
+            "Maximum": {
+                "Amount": 338.82,
+                "Currency": 1
+            }
+        },
+        "AnnualDividend": {
+            "Amount": 0,
+            "Currency": 1
+        },
+        "DividendYield": {
+            "Value": 0
+        },
+        "PercentOfSharesTraded": {
+            "Value": 0.013268338240421946
+        },
+        "AssetClass": 1,
+        "ChartUrl": "",
+        "IsRealTime": true,
+        "Bid": {
+            "Amount": 329.46,
+            "Currency": 1
+        },
+        "Ask": {
+            "Amount": 329.65,
+            "Currency": 1
+        },
+        "AskYield": {
+            "Value": 0
+        },
+        "BidYield": {
+            "Value": 0
+        },
+        "MaturityDate": "0001-01-01T00:00:00Z",
+        "OpenYield": {
+            "Value": 0
+        },
+        "PreviousYield": {
+            "Value": 0
+        },
+        "OpenInterest": 0,
+        "SeoName": "netflix",
+        "IdcMdgId": 5492248,
+        "Website": "http://www.netflix.com/",
+        "Beta3Y": 0.71,
+        "HomeCountryCode": "US",
+        "GrossMargin": 33.79,
+        "RevenueGrowth": 30.26
+    }
+]

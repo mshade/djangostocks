@@ -1,0 +1,5 @@
+django==1.11.12
+django-environ==0.4.4
+gunicorn==19.7.1
+django-debug-toolbar==1.9.1
+requests==2.18.4

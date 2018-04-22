@@ -1,0 +1,15 @@
+{% extends "quotes/quotes_base.html" %}
+{% block title %}{{context.Symbol}} Info{% endblock title %}
+{% block content %}
+<div class="container">
+    <h2>{{ context.CompanyName }} : {{ context.Symbol }}</h2>
+    <p>{{ context.Description }}</p>
+    <p><a href="{{context.Website}}">{{context.Website}}</a></p>
+    <p>
+        Exchange: {{ context.Exchange}}<br/>
+        Sector: {{ context.Sector}}<br/>
+        Industry: {{ context.Industry}}<br/>
+        Current Price: {{ context.CurrentPrice.Amount }} {{ context.CurrencyCode }}<br/>
+    </p>
+</div>
+{% endblock content %}

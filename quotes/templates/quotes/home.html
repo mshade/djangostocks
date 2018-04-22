@@ -1,0 +1,14 @@
+{% extends "quotes/quotes_base.html" %}
+{% block title %}Stock Quote Data{% endblock title %}
+{% block content %}
+<div class="container">
+    <h2>Symbols Available:</h2>
+
+    <ul>
+    {% for company in context %}
+        <li><a href="{% url 'quotes:stock_symbol' company.Symbol %}">{{ company.CompanyName }}</a></li>
+    {% endfor %}
+    </ul>
+
+</div>
+{% endblock content %}
