@@ -16,6 +16,8 @@ $ cd djangostocks
 $ virtualenv .
 $ source bin/activate
 $ pip install -r requirements.txt
+# Copy example.env to .env and edit as necessary
+$ cp example.env .env
 $ ./startserver.sh
 ```
 
