@@ -31,7 +31,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # See https://docs.djangoproject.com/en/1.11/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = '1m#p0ui8fx(6)(07=j6c5jja4l=31q)n5r&_@^ig#_0ug11ik='
+SECRET_KEY = env('SECRET_KEY')
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = env('DEBUG', default=False)
@@ -65,7 +65,7 @@ MIDDLEWARE = [
 ]
 
 # add the Django Debug Toolbar if DEBUG is True
-if DEBUG:
+if DEBUG == True:
      MIDDLEWARE += ['debug_toolbar.middleware.DebugToolbarMiddleware', ]
      INSTALLED_APPS += ['debug_toolbar', ]
  
