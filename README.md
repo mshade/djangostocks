@@ -3,6 +3,7 @@ A simple app that reads and presents stock data from JSON
 
 ## Data
 Data for the application is found in [./quotes/static/quotes_data.json](./quotes/static/quotes_data.json). It's called via HTTP to mimic the spirit of an external API request.
+The URL can be defined via settings in .env.
 
 ## Running Locally with manage.py runserver
 Requirements:
