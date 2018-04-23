@@ -19,7 +19,7 @@ def home(request):
     except:
         return HttpResponse("""
         Problem retreiving JSON. Is QUOTES_URL correct?
-        """)
+        """, status=500)
 
 def symbol(request, stock_symbol):
     try:
@@ -40,5 +40,5 @@ def symbol(request, stock_symbol):
     except:
         return HttpResponse("""
         Problem retreiving JSON. Is QUOTES_URL correct?
-        """)
+        """, status=500)
 
