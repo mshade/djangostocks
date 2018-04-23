@@ -47,7 +47,7 @@ docker run -it -p 8000:8000 --env QUOTES_URL=http://example.com/other_file.json 
 
 ## Running locally with docker-compose
 Install docker and the [docker-compose](https://docs.docker.com/compose/install/) tool.
-The docker-compose.yml file sets up a two container stack to handle static files via, as an example of a "production" style deployment.
+The docker-compose.yml file sets up a two container stack to handle static files via nginx, as an example of a "production" style deployment.
 
 ```
 docker-compose up
