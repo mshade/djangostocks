@@ -30,7 +30,7 @@ The app is available at http://localhost:8000/
 ```
 $ cd djangostocks
 $ docker build -t djangostocks .
-$ docker run -d -p 8000:8000 djangostocks
+$ docker run -it -p 8000:8000 djangostocks
 ```
 
 The app is available at http://localhost:8000/
