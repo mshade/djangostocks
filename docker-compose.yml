@@ -1,4 +1,4 @@
-version: '2'
+version: '3'
 services:
   nginx:
     image: nginx:latest
@@ -11,12 +11,11 @@ services:
       - django
   django:
     build: .
-    container_name: djangostocks
     volumes:
       - /static:/app/static
 
     # Run gunicorn instead of runserver
-    command: "./startserver.sh gunicorn"
+    command: ./startserver.sh gunicorn
     environment:
       # Set DEBUG=false, let nginx handle static files
       - DEBUG=False
