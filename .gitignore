@@ -51,6 +51,7 @@ target/
 
 
 ### Django ###
+static/
 *.log
 *.pot
 *.pyc
