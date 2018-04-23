@@ -24,7 +24,7 @@ from django.views.generic import RedirectView
 # site-wide route mapping
 urlpatterns = [
     url(r'^quotes/', include('quotes.urls', namespace='quotes')),
-    url(r'^', RedirectView.as_view(url='quotes/')),
+    url(r'^$', RedirectView.as_view(url='quotes/')),
     # example
     # url(r'^admin/', admin.site.urls),
     # url(r'^my_app/', include('my_app.urls', namespace="myapp")),

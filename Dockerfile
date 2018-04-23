@@ -11,5 +11,7 @@ ADD manage.py genenv.py startserver.sh example.env /app/
 ADD quotes /app/quotes
 ADD stocks /app/stocks
 
-ENV DEBUG=False
+# Set to True be default; docker-compose sets false for 'production' like
+# This enables static files for local dev
+ENV DEBUG=True
 CMD sh startserver.sh

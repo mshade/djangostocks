@@ -35,7 +35,22 @@ $ docker run -d -p 8000:8000 djangostocks
 
 The app is available at http://localhost:8000/
 
-You may customize .env settings via --env:
+If you want to work interactively and let django runserver restart when it detects code changes, mount your working directory to the application like so:
 ```
-docker run -it -p 8000:8000 --env DEBUG=True djangostocks
+$ docker run -it -p 8000:8000 -v $(pwd):/app djangostocks
 ```
+
+You may also customize .env settings via --env:
+```
+docker run -it -p 8000:8000 --env QUOTES_URL=http://example.com/other_file.json djangostocks
+```
+
+## Running locally with docker-compose
+Install docker and the [docker-compose](https://docs.docker.com/compose/install/) tool.
+The docker-compose.yml file sets up a two container stack to handle static files via, as an example of a "production" style deployment.
+
+```
+docker-compose up
+```
+
+The app is available at http://localhost:8000/
