@@ -1,4 +1,5 @@
 #!/usr/bin/env sh
+
 # Generate .env if necessary
 python genenv.py
 
@@ -10,9 +11,9 @@ python manage.py migrate
 python manage.py collectstatic --noinput
 
 # Start web server
-if [[ $1 == 'gunicorn' ]]
+if [ ! -z "$1" ]  && [ "$1" == 'gunicorn' ]
 then
-    gunicorn -b 0.0.0.0:8000 stocks.wsgi
+echo    gunicorn -b 0.0.0.0:8000 stocks.wsgi
 else
-    python manage.py runserver 0.0.0.0:8000
+echo    python manage.py runserver 0.0.0.0:8000
 fi
