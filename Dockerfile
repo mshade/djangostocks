@@ -11,4 +11,5 @@ ADD manage.py genenv.py startserver.sh example.env /app/
 ADD quotes /app/quotes
 ADD stocks /app/stocks
 
+ENV DEBUG=False
 CMD sh startserver.sh

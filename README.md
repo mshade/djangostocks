@@ -34,3 +34,8 @@ $ docker run -d -p 8000:8000 djangostocks
 ```
 
 The app is available at http://localhost:8000/
+
+You may customize .env settings via --env:
+```
+docker run -it -p 8000:8000 --env DEBUG=True djangostocks
+```

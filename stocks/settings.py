@@ -17,7 +17,7 @@ ROOT_DIR = environ.Path(__file__) - 2
 APPS_DIR = ROOT_DIR.path('stocks')
 
 # Load operating system environment variables and then prepare to use them
-env = environ.Env()
+env = environ.Env(DEBUG=(bool, False))
 
 env_file = str(ROOT_DIR.path('.env'))
 print('Loading : {}'.format(env_file))
@@ -34,9 +34,9 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = env('SECRET_KEY')
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = env('DEBUG', default=False)
+DEBUG = env('DEBUG')
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost']
 
 
 # Application definition
@@ -66,17 +66,18 @@ MIDDLEWARE = [
 
 # add the Django Debug Toolbar if DEBUG is True
 if DEBUG == True:
-     MIDDLEWARE += ['debug_toolbar.middleware.DebugToolbarMiddleware', ]
-     INSTALLED_APPS += ['debug_toolbar', ]
- 
-     INTERNAL_IPS = ['127.0.0.1']
- 
-     DEBUG_TOOLBAR_CONFIG = {
-         'DISABLE_PANELS': [
-             'debug_toolbar.panels.redirects.RedirectsPanel',
-         ],
-         'SHOW_TEMPLATE_CONTEXT': True,
-     }
+    print('Debug is ON.')
+    MIDDLEWARE += ['debug_toolbar.middleware.DebugToolbarMiddleware', ]
+    INSTALLED_APPS += ['debug_toolbar', ]
+
+    INTERNAL_IPS = ['127.0.0.1']
+
+    DEBUG_TOOLBAR_CONFIG = {
+        'DISABLE_PANELS': [
+            'debug_toolbar.panels.redirects.RedirectsPanel',
+        ],
+        'SHOW_TEMPLATE_CONTEXT': True,
+    }
 
 
 # look for URLS in PROJECT/PROJECT/urls.py
@@ -146,6 +147,7 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/1.11/howto/static-files/
 
 STATIC_URL = '/static/'
+STATIC_ROOT = './static/'
 
 # Quotes Data JSON URL
 QUOTES_URL = env('QUOTES_URL')
