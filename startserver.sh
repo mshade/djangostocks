@@ -9,5 +9,10 @@ python manage.py migrate
 # Collect static assets for nginx if required
 python manage.py collectstatic --noinput
 
-# Start dev web server
-python manage.py runserver 0.0.0.0:8000
+# Start web server
+if [[ $1 == 'gunicorn' ]]
+then
+    gunicorn -b 0.0.0.0:8000 stocks.wsgi
+else
+    python manage.py runserver 0.0.0.0:8000
+fi

@@ -14,6 +14,9 @@ services:
     container_name: djangostocks
     volumes:
       - /static:/app/static
+
+    # Run gunicorn instead of runserver
+    command: "./startserver.sh gunicorn"
     environment:
       # Set DEBUG=false, let nginx handle static files
       - DEBUG=False
