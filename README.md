@@ -18,7 +18,6 @@ $ virtualenv .
 $ source bin/activate
 
 $ pip install -r requirements.txt
-$ ./genenv.py
 $ ./startserver.sh
 ```
 The app is available at http://localhost:8000/
@@ -28,13 +27,9 @@ The app is available at http://localhost:8000/
 [Install docker for your platform](https://docs.docker.com/install/), then clone the repository and build the container:
 
 ```
-$ git clone https://github.com/mshade/djangostocks
 $ cd djangostocks
-# Copy example.env to .env, and edit as necessary
-$ cp example.env .env
 $ docker build -t djangostocks .
-$ docker run -d -p 8000:8000 --env-file=.env djangostocks
+$ docker run -d -p 8000:8000 djangostocks
 ```
 
 The app is available at http://localhost:8000/
-
