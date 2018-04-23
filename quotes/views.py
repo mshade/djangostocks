@@ -12,7 +12,7 @@ import json
 
 def home(request):
     try:
-        response = requests.get(settings.QUOTES_URL)
+        response = requests.get(settings.QUOTES_URL, timeout=1)
         quotes_list = response.json()
 
         return render(request, 'quotes/home.html', {'context': quotes_list})
@@ -23,7 +23,7 @@ def home(request):
 
 def symbol(request, stock_symbol):
     try:
-        response = requests.get(settings.QUOTES_URL)
+        response = requests.get(settings.QUOTES_URL, timeout=1)
         quotes_list = response.json()
         company_data = {}
 
