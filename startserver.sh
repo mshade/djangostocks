@@ -13,7 +13,7 @@ python manage.py collectstatic --noinput
 # Start web server
 if [ ! -z "$1" ]  && [ "$1" == 'gunicorn' ]
 then
-echo    gunicorn -b 0.0.0.0:8000 stocks.wsgi
+    gunicorn -b 0.0.0.0:8000 stocks.wsgi
 else
-echo    python manage.py runserver 0.0.0.0:8000
+    python manage.py runserver 0.0.0.0:8000
 fi
