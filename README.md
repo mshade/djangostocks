@@ -10,17 +10,15 @@ Requirements:
 - pip
 - Virtualenv recommended
 
+Check out the repository, then:
 ```
-$ git clone https://github.com/mshade/djangostocks
 $ cd djangostocks
+# Create and activate virtualenv
 $ virtualenv .
 $ source bin/activate
+
 $ pip install -r requirements.txt
-$ cp example.env .env
-# Copy example.env to .env and edit as necessary
-# A fresh secret key may be generated with the following command:
-$ python manage.py shell -c 'from django.core.management import utils; print(utils.get_random_secret_key())'
-$ cp example.env .env
+$ ./genenv.py
 $ ./startserver.sh
 ```
 The app is available at http://localhost:8000/
