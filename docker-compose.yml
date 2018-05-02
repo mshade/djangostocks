@@ -6,13 +6,13 @@ services:
       - "8000:8000"
     volumes:
       - ./conf/nginx:/etc/nginx/conf.d
-      - /static:/app/static
+      - static:/app/static
     depends_on:
       - django
   django:
     build: .
     volumes:
-      - /static:/app/static
+      - static:/app/static
 
     # Run gunicorn instead of runserver
     command: ./startserver.sh gunicorn
@@ -20,3 +20,6 @@ services:
       # Set DEBUG=false, let nginx handle static files
       - DEBUG=False
       - QUOTES_URL=http://nginx:8000/static/quotes_data.json
+
+volumes:
+  static:
